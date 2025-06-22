@@ -22,9 +22,6 @@ This repository contains multiple deep learning models designed for crowd counti
 | FFNet + FTM (Dilated)        | 27.18 | 2185.14  |
 | FFNet + FTM (Dynamic)        | **30.63** | 2303.36  |
 
-## Project Structure
-
-```
 
 ## Setup
 
