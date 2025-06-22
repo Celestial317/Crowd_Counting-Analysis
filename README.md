@@ -22,6 +22,9 @@ This repository contains multiple deep learning models designed for crowd counti
 | FFNet + FTM (Dilated)        | 27.18 | 2185.14  |
 | FFNet + FTM (Dynamic)        | **30.63** | 2303.36  |
 
+## Sample Output of Crowd Analysis
+![1_segment_005_motion_features_viz (1)](https://github.com/user-attachments/assets/eb1e7a6a-d45b-40b6-9247-6f7195533da4)
+
 
 ## Setup
 
@@ -41,7 +44,7 @@ pip install -r requirements.txt
 2. Segment humans using DepthPro and fuse with density map
 3. Use optical flow to compute motion vectors in masked regions
 4. Extract motion features like speed, vorticity, confusion index, etc.
-5. Predict crowd emotion → predict crowd behavior
+5. Predict crowd emotion → Predict crowd behavior
 
 ## Credits
 
