@@ -23,7 +23,7 @@ This repository contains multiple deep learning models designed for crowd counti
 | FFNet + FTM (Dynamic)        | **30.63** | 2303.36  |
 
 ## Sample Output of Crowd Analysis
-![1_segment_005_motion_features_viz (1)](https://github.com/user-attachments/assets/eb1e7a6a-d45b-40b6-9247-6f7195533da4)
+![Output](https://github.com/user-attachments/assets/eb1e7a6a-d45b-40b6-9247-6f7195533da4)
 
 
 ## Setup
